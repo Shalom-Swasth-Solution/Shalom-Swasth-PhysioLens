@@ -5,7 +5,32 @@ PhysioLens is a full-stack application for AI-powered posture analysis, communit
 ---
 
 ## Project Structure
-├── backend/ │ ├── database.py │ ├── posture_analyzer.py │ ├── schemas.py │ ├── server.py │ ├── .env │ └── requirements.txt ├── frontend/ │ ├── public/ │ ├── src/ │ ├── package.json │ ├── tailwind.config.js │ ├── craco.config.js │ └── README.md ├── tests/ │ └── init.py ├── contracts.md ├── test_result.md ├── README.md └── .gitignore
+backend/
+│
+├── database.py
+├── posture_analyzer.py
+├── schemas.py
+├── server.py
+├── .env
+└── requirements.txt
+
+frontend/
+│
+├── public/
+├── src/
+├── package.json
+├── tailwind.config.js
+├── craco.config.js
+└── README.md
+
+tests/
+│
+└── init.py
+
+contracts.md
+test_result.md
+README.md
+.gitignore
 
 ---
 
